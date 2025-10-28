@@ -49,7 +49,7 @@ The goal of this project was to:
 
 2. Microsoft Excel
 
-3. Power BI (for visualization)
+3. Python (for visualization)
 
 4. Jupyter Notebook
    
