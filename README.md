@@ -20,7 +20,7 @@ The goal of this project was to:
   ```python
   df['CTR'] = (df['Clicks'] / df['Impressions']) * 100
 
-##📈 Key Insights
+## 📈 Key Insights
 
 1. Social Media and Email Marketing showed the highest CTR.
 
@@ -31,7 +31,7 @@ The goal of this project was to:
 4. ROI improved when budgets were reallocated to cost-effective channels.
 
 
-##Recommendations
+## Recommendations
 
 1. Increase spending on high-CTR, low-CPC channels
 
@@ -43,7 +43,7 @@ The goal of this project was to:
    
    
 
-##🧰 Tools Used
+##  🧰 Tools Used
 
 1. Python (Pandas, Matplotlib, Seaborn)
 
@@ -54,7 +54,7 @@ The goal of this project was to:
 4. Jupyter Notebook
    
 
-##📎 Files
+##  📎 Files
 
 Marketing_Campaign_Report_HNG.pdf — Final project report
 
