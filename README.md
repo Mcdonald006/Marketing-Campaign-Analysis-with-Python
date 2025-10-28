@@ -61,3 +61,8 @@ Marketing_Campaign_Report_HNG.pdf — Final project report
 marketing_campaign_dataset.csv — Cleaned dataset
 
 README.md — Project summary
+
+## AUTHOR
+AKOGWU MCDONALD IKECHUKWU - Data Analyst
+
+https://mcdonald006.github.io/AnalysisByMc-Portfolio/#portfolio
